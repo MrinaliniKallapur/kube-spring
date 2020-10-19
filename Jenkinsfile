@@ -1,6 +1,6 @@
 pipeline{  
     environment {
-    registry = "MrinaliniKallapur/kube-spring>>"
+    registry = "mrinalinikallapur/spring-demo"
     }
   agent any
   stages {
